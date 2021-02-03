@@ -10,7 +10,7 @@ A program counting the derivative of one-variable functions and exporting the re
  - natural logarithm (ln)
  - degree (^)
  # Expression format
- The expressions and the variables must be taken into brackets with space left between the symbols, i(.e.
+ The expressions and the variables must be taken into brackets with space left between the symbols. i.e.
   - ( ( x ) + ( 4 ) );
   - ( cos ( ( x ) ^ ( x ) ) );
   - ( ln ( ( x ) + ( 100 ) ) ).
